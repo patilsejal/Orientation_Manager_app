@@ -1,4 +1,4 @@
-# chewie_app
+Orientation Manager Application using flutter
 
 A new Flutter project.
 
